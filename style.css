@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: gray;
+}
+
+#but_1 {
+    margin: 20px;
+}
+
+#but_2 {
+    margin: 20px;
+    display: none
+}
+
+input {
+    margin: 10px;
+    font-size:20px;
+}
+#output{font-size: 25px;font-weight: bold;}
